@@ -1,4 +1,6 @@
 
+
+**This is development repository offical ontolgy will be hosted from InsilicoVida**
 ![Build Status](https://github.com/Crispae/pkonto/workflows/CI/badge.svg)
 # pharmokinetic-ontology
 
