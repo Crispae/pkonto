@@ -10,11 +10,11 @@ build:
   system: git
   path: "."
 contact:
-  email: 
-  label: 
-  github: 
-description: pharmokinetic-ontology is an ontology...
-domain: stuff
+  email: saurav.kumar@iispv.cat
+  label: Maintainer
+  github: https://github.com/Crispae/
+description: pharmokinetic-ontology is an ontology aligned with PBPK modelling.
+domain: Systems Biology
 homepage: https://github.com/Crispae/pkonto
 products:
   - id: pko.owl
@@ -38,7 +38,3 @@ license:
   label: CC-BY
 activity_status: active
 ---
-
-Enter a detailed description of your ontology here. You can use arbitrary markdown and HTML.
-You can also embed images too.
-
